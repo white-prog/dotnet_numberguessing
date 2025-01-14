@@ -1,0 +1,4 @@
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.csproj.CoreCompileInputs.cache
