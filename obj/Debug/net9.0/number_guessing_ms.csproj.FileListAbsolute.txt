@@ -2,3 +2,14 @@ C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing
 C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.AssemblyInfoInputs.cache
 C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.AssemblyInfo.cs
 C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.sourcelink.json
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\bin\Debug\net9.0\number_guessing_ms.exe
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\bin\Debug\net9.0\number_guessing_ms.deps.json
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\bin\Debug\net9.0\number_guessing_ms.runtimeconfig.json
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\bin\Debug\net9.0\number_guessing_ms.dll
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\bin\Debug\net9.0\number_guessing_ms.pdb
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.dll
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\refint\number_guessing_ms.dll
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.pdb
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\number_guessing_ms.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\dotnet\number_guessing_ms\obj\Debug\net9.0\ref\number_guessing_ms.dll

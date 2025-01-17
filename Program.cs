@@ -7,18 +7,20 @@ namespace Numberguessing{
             Console.WriteLine("  NUMBER GUESSING GAME   ");
             Console.WriteLine("-------------------------");
             int score = 0;
+            Random random = new Random();
+            
 
             while (true){
-                Console.Write("Do you want to continue or not(Y/N): ");
-                string letter = Console.ReadLine();
+                Console.Write("Do you want to Exit or not(Y/N): ");
+                char letter = Convert.ToChar(Console.ReadLine());
                 if (letter == 'Y'){
                     Console.WriteLine("Thank you!");
                     break;
                 }
                 Console.Write("Guess your number(1-100): ");
-                int num = Console.ConvertToint32(Console.ReadLine());
+                int num = Convert.ToInt32(Console.ReadLine());
 
-                int guess = Random_number();
+                int guess = random.Next(1,101);
                 Console.WriteLine($"Computer guess : {guess}");
                 if (num == guess){
                     Console.WriteLine("Hurray You got one");
@@ -35,11 +37,6 @@ namespace Numberguessing{
             Console.WriteLine($"Your score : {score}");
 
         }
-        int Random_number(){
-            Random random = new Random();
-            int randomNumber = random.Next(1,101);
-            return randomNumber;
-
-        }
+        
         }
     }
